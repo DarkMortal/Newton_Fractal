@@ -10,4 +10,4 @@ version = 2
 prettyVersion = 1.1.2
 
 minRevision = 0
-maxRevision = 227
+maxRevision = 270
