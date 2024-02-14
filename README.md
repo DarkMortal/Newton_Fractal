@@ -11,3 +11,5 @@ https://github.com/DarkMortal/Newton_Fractal/assets/67017303/00b590be-2417-43e2-
 $f(z)=z^3-1$
 
 https://github.com/DarkMortal/Newton_Fractal/assets/67017303/60a217cd-b757-431d-bc2c-d3081405b667
+
+I'd advise the viewer to go through the research paper first to understand how these are created.
