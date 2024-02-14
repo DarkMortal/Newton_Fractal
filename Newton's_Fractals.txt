@@ -1,4 +1,4 @@
-name = Basin's of Attraction (Newton's Fractals)
+name = Basins of Attraction (Newton's Fractals)
 authorList = [Saptarshi Dey](http://github.com/DarkMortal)
 
 url = https://github.com/DarkMortal/Newton_Fractal
@@ -10,4 +10,4 @@ version = 2
 prettyVersion = 1.1.2
 
 minRevision = 0
-maxRevision = 270
+maxRevision = 0
