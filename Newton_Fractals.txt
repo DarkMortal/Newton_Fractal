@@ -4,7 +4,7 @@ authorList = [Saptarshi Dey](http://github.com/DarkMortal)
 url = https://github.com/DarkMortal/Newton_Fractal
 
 category = Math
-sentence = A set of sketches demonstrating the recusive nature of Newton's Fractals.
+sentence = A set of sketches demonstrating the recursive nature of Newton's Fractals.
 
 version = 2
 prettyVersion = 1.1.2
